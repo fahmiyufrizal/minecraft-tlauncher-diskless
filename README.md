@@ -11,20 +11,12 @@ Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++
 - Ready-to-go alias cesplenk. Tidak perlu atur minecraft.dir lagi didalam tlauncher-2.0.properties
 - Auto reset profiles/username. Sehingga client bisa menggunakan username/profiles-nya sendiri tanpa perlu menghapus dari server
 
-## PENTING!
-- Pastikan sudah copy folder .tlauncher dari dalam folder %appdata% (misal C:\Users\fahmiyufrizal\AppData\Roaming) ke dalam folder Minecraft di gamedisk
-Contoh :
-[![Screenshot%20(32).png](https://github.com/fahmiyufrizal/minecraft-tlauncher-diskless/blob/main/Screenshot%20(32).png)]( )
-
-## Baru Pertama Pasang Minecraft Tlauncher?
-- Bila menginstall Minecraft Tlauncher dari awal, masukkan isi dari folder .minecraft dari dalam folder %appdata% (misal C:\Users\fahmiyufrizal\AppData\Roaming) ke dalam folder di dalam gamedisk (misal D:\Minecraft)
-- Lalu masukkan folder .tlauncher didalam folder %appdata% (misal C:\Users\fahmiyufrizal\AppData\Roaming) ke dalam folder Minecraft di gamedisk (misal D:\Minecraft)
-Contoh :
-[![Screenshot%20(32).png](https://github.com/fahmiyufrizal/minecraft-tlauncher-diskless/blob/main/Screenshot%20(32).png)]( )
-
 ## Instalasi dan cara menggunakan
 
 - Cukup taruh file Launch_Minecraft.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe)
+
+## Ga pengen ribet?
+- Download Minecraft 1.17.1 + TLauncher 2.8 di [sini](https://drive.google.com/file/d/1sJRZNRMdD-_88qW9c_inCHg8gZIIY-bu/view?usp=sharing)
 
 ## Lisensi
 
@@ -34,3 +26,4 @@ Contoh :
 
 - Mojang Studios
 - TLauncher
+- Semua yang telah memanfaatkan project dan memberikan feedback ^^
