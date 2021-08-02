@@ -4,7 +4,7 @@ Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++
 
 ## English please?
 
-- For English Instruction, check [README-eng.md](https://github.com/fahmiyufrizal/minecraft-tlauncher-diskless/blob/main/README-eng.md) (Coming Soon)
+- For English Instruction, check [README-eng.md](https://github.com/fahmiyufrizal/minecraft-tlauncher-diskless/blob/main/README-eng.md)
 
 ## Fitur
 
@@ -17,7 +17,10 @@ Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++
 - Cukup taruh file Launch_Minecraft.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe)
 
 ## Ga pengen ribet?
+
 - Download Minecraft 1.17.1 + TLauncher 2.8 di [sini](https://drive.google.com/file/d/1sJRZNRMdD-_88qW9c_inCHg8gZIIY-bu/view?usp=sharing)
+- Pass : fahmiyufrizal@2021
+- Jangan di-reupload!
 
 ## Lisensi
 
