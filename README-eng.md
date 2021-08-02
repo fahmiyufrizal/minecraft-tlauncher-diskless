@@ -11,6 +11,7 @@ Minecraft TLauncher for Diskless - Written using Notepad++
 ## Installation and how to use
 
 - Just place Launch_Minecraft.exe file inside folder Minecraft at gamedisk (ex D:\Minecraft\Launch_Minecraft.exe)
+- Launch using Launch_Minecraft.exe, dont use TLauncher.exe
 
 ## I don't give a f, what should i do?
 
