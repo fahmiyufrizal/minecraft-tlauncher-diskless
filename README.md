@@ -10,6 +10,7 @@ Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++
 
 - Ready-to-go alias cesplenk. Tidak perlu atur minecraft.dir lagi didalam tlauncher-2.0.properties
 - Auto reset profiles/username. Sehingga client bisa menggunakan username/profiles-nya sendiri tanpa perlu menghapus dari server
+- Auto copy folder .tlauncher dan .minecraft bila belum ada di gamedisk
 
 ## Instalasi dan cara menggunakan
 
