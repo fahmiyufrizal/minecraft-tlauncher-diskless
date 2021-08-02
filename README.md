@@ -1,11 +1,10 @@
 # Minecraft TLauncher for Diskless
 
-Minecraft TLauncher for Diskless
-Ditulis menggunakan Notepad++
+Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++
 
 ## English please?
 
-- For English Instruction, check readme-eng.md
+- For English Instruction, check [README-eng.md](https://github.com/fahmiyufrizal/minecraft-tlauncher-diskless/blob/main/README-eng.md) (Coming Soon)
 
 ## Fitur
 
