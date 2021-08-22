@@ -1,6 +1,6 @@
 @echo off
 
-title fahmiyufrizal@2021 [github.com/fahmiyufrizal]
+title fahmiyufrizal@2021 [github.com/fahmiyufrizal] [Licensed to : 0-fahmiyufrizal]
 :createfolder
 if exist _fahmiyufrizal (
     goto checkinstall
@@ -74,13 +74,39 @@ type _fahmiyufrizal.io
 ping 127.0.0.1 -n 4 > nul
 
 :mklinkfolder
+if exist _fahmiyufrizal\tlauncher-2.0.properties (
+    goto eraseme
+) else (
+    echo     [grb] Backuping TLauncher configuration...
+	copy .tlauncher\tlauncher-2.0.properties _fahmiyufrizal
+)
+
+:eraseme
 echo.
-echo     [mkt] Creating tlauncher mklink...
-RD /S /Q "%appdata%\.tlauncher"
+echo     [ers] Erasing TLauncher path configuration...
+del .tlauncher\tlauncher-2.0.properties
+setlocal
+for /F "tokens=2 delims==" %%a in ('findstr /I "minecraft.gamedir=" _fahmiyufrizal\tlauncher-2.0.properties') do set "minepath=%%a"
+set strFileAwal=_fahmiyufrizal\tlauncher-2.0.properties
+set dstFileFix=.tlauncher\tlauncher-2.0.properties
+set path_lawas=%minepath%
+set path_anyar= 
+
+setlocal EnableDelayedExpansion
+for /f "tokens=1* delims=:" %%i in ('findstr /n .* "%strFileAwal%"') do (
+	set "line=%%j"
+	if not "!line!"=="" set "line=!line:%path_lawas%=%path_anyar%!"
+	echo.!line!>>%dstFileFix%
+)
+
+endlocal
+echo.
+echo     [mk] Creating tlauncher mklink...
+RD /S /Q %appdata%\.tlauncher
 mklink /J "%appdata%\.tlauncher" .tlauncher
 echo.
-echo     [mkm] Creating minecraft mklink...
-RD /S /Q "%appdata%\.minecraft"
+echo     [mk] Creating minecraft mklink...
+RD /S /Q %appdata%\.minecraft
 mklink /J "%appdata%\.minecraft" "%~dp0"
 
 :clearprofile
@@ -93,7 +119,3 @@ ren "TlauncherProfiles.json" "TlauncherProfiles.json_bak"
 echo     [st] Starting Minecraft TLauncher...
 ping 127.0.0.1 -n 4 > nul
 start "" TLauncher.exe
-
-:bersihfile
-cd _fahmiyufrizal
-call cleanup.bat
