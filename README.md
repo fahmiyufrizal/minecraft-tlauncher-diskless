@@ -19,8 +19,7 @@ Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++
 
 ## Ga pengen ribet?
 
-- Download Minecraft 1.17.1 + TLauncher 2.8 di [sini](https://drive.google.com/file/d/1sJRZNRMdD-_88qW9c_inCHg8gZIIY-bu/view?usp=sharing)
-- Pass : fahmiyufrizal@2021
+- Download Minecraft 1.17.1 + TLauncher 2.8 di [sini](https://drive.google.com/file/u/1/d/1cJRXFbuZfHipNJBkpJ_-weS2JeYdrRQX/view?usp=sharing)
 - Jangan di-reupload!
 
 ## Lisensi
