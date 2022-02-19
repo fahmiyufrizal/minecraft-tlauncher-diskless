@@ -1,12 +1,12 @@
 # Minecraft TLauncher for Diskless
 
-Minecraft TLauncher for Diskless - Written using Notepad++
+Minecraft TLauncher for Diskless - Written using Notepad++ - Rebuilded using Phyton
 
 ## Feature
 
 - Ready-to-go or cesplenk. No need to set minecraft.dir inside tlauncher-2.0.properties
-- Auto reset profiles/username. It will let client use his/her own username/profiles
-- Auto copy folder .tlauncher and .minecraft if doesn't exist at gamedisk
+- (ON MAINTENANCE) Auto reset profiles/username. It will let client use his/her own username/profiles
+- Inverted-Profiles. Now tlauncher's savefiles can be save-loaded using third party software (like Tri.com Savenload, Game save bdstd, dsb.)
 
 ## Installation and how to use
 
@@ -15,13 +15,8 @@ Minecraft TLauncher for Diskless - Written using Notepad++
 
 ## I don't give a f, what should i do?
 
-- Download Minecraft 1.17.1 + TLauncher 2.8 at [here](https://drive.google.com/file/u/1/d/1cJRXFbuZfHipNJBkpJ_-weS2JeYdrRQX/view?usp=sharing)
-- Pass : fahmiyufrizal@2021
+- Download Minecraft 1.18.1 + TLauncher 2.841 at [here](https://drive.google.com/file/u/1/d/1cJRXFbuZfHipNJBkpJ_-weS2JeYdrRQX/view?usp=sharing)
 - Please don't reupload it!
-
-## License
-
-- Open-Source, just dont change the filename. You can extract batch and modified it
 
 ## Thank's to
 
