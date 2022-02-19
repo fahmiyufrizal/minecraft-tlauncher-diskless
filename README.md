@@ -1,6 +1,6 @@
 # Minecraft TLauncher for Diskless
 
-Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++
+Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++ - Di-rebuild dengan Phyton
 
 ## English please?
 
@@ -9,8 +9,8 @@ Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++
 ## Fitur
 
 - Ready-to-go alias cesplenk. Tidak perlu atur minecraft.dir lagi didalam tlauncher-2.0.properties
-- Auto reset profiles/username. Sehingga client bisa menggunakan username/profiles-nya sendiri tanpa perlu menghapus dari server
-- Auto copy folder .tlauncher dan .minecraft bila belum ada di gamedisk
+- (SEDANG DALAM MAINTENANCE) Auto reset profiles/username. Sehingga client bisa menggunakan username/profiles-nya sendiri tanpa perlu menghapus dari server
+- Inverted-Profiles. Sekarang savefiles tlauncher bisa disave-load sesuka hati menggunakan program pihak ke-3 (seperti Tri.com Savenload, Game save bdstd, dsb.)
 
 ## Instalasi dan cara menggunakan
 
@@ -19,12 +19,8 @@ Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++
 
 ## Ga pengen ribet?
 
-- Download Minecraft 1.17.1 + TLauncher 2.8 di [sini](https://drive.google.com/file/u/1/d/1cJRXFbuZfHipNJBkpJ_-weS2JeYdrRQX/view?usp=sharing)
+- Download Minecraft 1.18.1 + TLauncher 2.841 di [sini](https://drive.google.com/file/u/1/d/1cJRXFbuZfHipNJBkpJ_-weS2JeYdrRQX/view?usp=sharing)
 - Jangan di-reupload!
-
-## Lisensi
-
-- Open-Source, cukup jangan ganti nama filenya saja. Batch boleh diextract dan diedit sesuai kebutuhan
 
 ## Terimakasih Kepada
 
