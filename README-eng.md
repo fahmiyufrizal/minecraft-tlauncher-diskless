@@ -15,7 +15,7 @@ Minecraft TLauncher for Diskless - Written using Notepad++ - Rebuilded using Phy
 
 ## I don't give a f, what should i do?
 
-- Download Minecraft 1.18.1 + TLauncher 2.841 at [here](https://drive.google.com/file/u/1/d/1cJRXFbuZfHipNJBkpJ_-weS2JeYdrRQX/view?usp=sharing)
+- Download Minecraft 1.18.1 + TLauncher 2.841 at [here](https://drive.google.com/file/d/1P_WVLZAHKfrVALY5lIVggIyvw0aWcKQR/view?usp=sharing)
 - Please don't reupload it!
 
 ## Thank's to
