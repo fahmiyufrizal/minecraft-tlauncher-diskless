@@ -9,21 +9,36 @@ Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++ - Di-rebuild de
 ## Fitur
 
 - Ready-to-go alias cesplenk. Tidak perlu atur minecraft.dir lagi didalam tlauncher-2.0.properties
-- (SEDANG DALAM MAINTENANCE) Auto reset profiles/username. Sehingga client bisa menggunakan username/profiles-nya sendiri tanpa perlu menghapus dari server
+- Splitted-config. Config akun server dan client terpisah.
 - Inverted-Profiles. Sekarang savefiles tlauncher bisa disave-load sesuka hati menggunakan program pihak ke-3 (seperti Tri.com Savenload, Game save bdstd, dsb.)
+- ServerUI. Toolkit untuk keperluan Minecraft TLauncher Diskless
 
 ## Instalasi dan cara menggunakan
 
 - Cukup taruh file Launch_Minecraft.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe)
-- Jalankan menggunakan Launch_Minecraft.exe, jangan menggunakan TLauncher.exe
+- Jalankan Launch_Minecraft_ServerUI.exe
+- Klik 1-click configuration di server
+- Setelah itu, jalankan Launch_Minecraft.exe seperti biasa baik di server maupun di client
 
+## Penjelasan ServerUI
+
+- Start TLauncher UI : Membuka TLauncher UI (Launch_Minecraft.exe)
+- 1-click TLauncher Diskless Server Ready : Auto konfigurasi setting agar siap dipakai di server dan client
+- Server Mode : Membuat PC menjadi server-mode
+- Cliet Mode : Membuat PC menjadi client-mode
+- Reset Account (Server) : Reset akun server menjadi blank
+- Reset Account (Client) : Reset akun client menjadi blank
+- Reset TLauncher Config (Diskless path) : Reset konfigurasi sistem TLauncher dengan path diskless (C:\Minecraft\.minecraft) yang diperlukan untuk launcher diskless
+- Reset TLauncher Default Config (FULL RESET!) : Reset konfigurasi sistem TLauncher fresh tanpa path diskless
+ 
 ## Ga pengen ribet?
 
-- Download Minecraft 1.18.1 + TLauncher 2.841 di [sini](https://drive.google.com/file/d/1P_WVLZAHKfrVALY5lIVggIyvw0aWcKQR/view?usp=sharing)
+- Download Minecraft 1.18.1 + TLauncher 2.841 di [sini](https://drive.google.com/file/d/1CA0JvOw_17dZNkQcpSASDM4q1QLiaEGz/view?fbclid=IwAR2ViknbxW80IvDJvsfbGtxmSJtd98casrqxtAwX5j28CMgh2C3yaOZXn04)
 - Jangan di-reupload!
 
 ## Terimakasih Kepada
 
+- Allah SWT
 - Mojang Studios
 - TLauncher
 - Semua yang telah memanfaatkan project dan memberikan feedback ^^
