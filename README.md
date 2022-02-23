@@ -15,9 +15,9 @@ Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++ - Di-rebuild de
 
 ## Instalasi dan cara menggunakan
 
-- Cukup taruh file Launch_Minecraft.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe)
+- Cukup taruh folder fahmiyufrizal, file Launch_Minecraft.exe, Launch_Minecraft_Legacy.exe, dan Launch_Minecraft_ServerUI.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe)
 - Jalankan Launch_Minecraft_ServerUI.exe
-- Klik 1-click configuration di server
+- Klik "1-click configuration" di server
 - Setelah itu, jalankan Launch_Minecraft.exe seperti biasa baik di server maupun di client
 
 ## Penjelasan ServerUI
