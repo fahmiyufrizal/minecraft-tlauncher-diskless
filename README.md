@@ -1,3 +1,5 @@
+[![N|Solid](https://apkmody.io/wp-content/uploads/2018/07/Minecraft-MOD-APK-by-APKMODY.jpg)](#)
+
 # Minecraft TLauncher for Diskless
 
 Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++ - Di-rebuild dengan Phyton
@@ -28,7 +30,7 @@ Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++ - Di-rebuild de
 - Cliet Mode : Membuat PC menjadi client-mode
 - Reset Account (Server) : Reset akun server menjadi blank
 - Reset Account (Client) : Reset akun client menjadi blank
-- Reset TLauncher Config (Diskless path) : Reset konfigurasi sistem TLauncher dengan path diskless (C:\Minecraft\.minecraft) yang diperlukan untuk launcher diskless
+- Reset TLauncher Config (Diskless path) : Reset konfigurasi sistem TLauncher dengan path diskless yang diperlukan untuk launcher diskless
 - Reset TLauncher Default Config (FULL RESET!) : Reset konfigurasi sistem TLauncher fresh tanpa path diskless
 
 ## Fitur Inverted-Profiles
@@ -36,11 +38,15 @@ Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++ - Di-rebuild de
 Penjelasan :
 Inverted-Profiles adalah sebuah fitur yang memanfaatkan konfigurasi client-mode di client, sehingga save game (termasuk stat player dan worlds) bisa disimpan ke server dan di-load kapan saja.
 Untuk melakukan save-game, bisa memanfaatkan aplikasi save-game pihak ketiga seperti Tri.com savenload, bdstd save-game menu, dll. maupun dengan junction point khusus sesuai konfigurasi sistem diskless masing-masing
+```sh
 Path dari save-gamenya adalah di folder "saves" (contoh : G:\Minecraft\saves)
+```
 
 Cara menggunakan Inverted-Profiles
 - Konfigurasi folder save-game sesuai aplikasi masing-masing / settingan masing-masing
+```sh
 (contoh : bila menggunakan Tri.com savenload, tambahkan Minecraft=G:\Minecraft\saves\*.*)
+```
 - Jalankan Launch_Minecraft.exe di client
 - Setelah player selesai bermain, buka aplikasi save-game, lalu save gamenya ke server
 - Saat user ingin main lagi di lain waktu, buka aplikasi save-game terlebih dahulu, load save-game yang telah disimpan, lalu buka Launch_Minecraft.exe
