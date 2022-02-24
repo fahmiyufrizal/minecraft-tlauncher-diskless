@@ -1,3 +1,5 @@
+[![N|Solid](https://apkmody.io/wp-content/uploads/2018/07/Minecraft-MOD-APK-by-APKMODY.jpg)](#)
+
 # Minecraft TLauncher for Diskless
 
 Minecraft TLauncher for Diskless - Written using Notepad++ - Rebuilded using Phyton
@@ -32,11 +34,16 @@ Minecraft TLauncher for Diskless - Written using Notepad++ - Rebuilded using Phy
 Explanation :
 Inverted-Profiles is a feature that use client-mode configuration at client, so save game (including stat player and worlds) can be stored to server and loaded anytime.
 For save-game, you can use third-party save game app like Tri.com savenload, bdstd save-game menu, etc. or using spesific junction point at ur diskless system.
-Path for the save-game located at folder "saves" (ex : G:\Minecraft\saves)
+```sh
+The save-game path is at folder "saves" (ex : G:\Minecraft\saves)
+```
+
 
 How to use Inverted-Profiles
 - Config ur save-game folder
+```sh
 (ex : if u use Tri.com savenload, add Minecraft=G:\Minecraft\saves\*.*)
+```
 - Launch Launch_Minecraft.exe at client
 - After client finished playing, open save-game app, and then save the game to server
 - If user want to load the save-game next time, open save-game app first, load save-game that already stored to server, and then launch Launch_Minecraft.exe
