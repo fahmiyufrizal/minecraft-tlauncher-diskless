@@ -30,7 +30,25 @@ Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++ - Di-rebuild de
 - Reset Account (Client) : Reset akun client menjadi blank
 - Reset TLauncher Config (Diskless path) : Reset konfigurasi sistem TLauncher dengan path diskless (C:\Minecraft\.minecraft) yang diperlukan untuk launcher diskless
 - Reset TLauncher Default Config (FULL RESET!) : Reset konfigurasi sistem TLauncher fresh tanpa path diskless
- 
+
+## Fitur Inverted-Profiles
+
+Penjelasan :
+Inverted-Profiles adalah sebuah fitur yang memanfaatkan konfigurasi client-mode di client, sehingga save game (termasuk stat player dan worlds) bisa disimpan ke server dan di-load kapan saja.
+Untuk melakukan save-game, bisa memanfaatkan aplikasi save-game pihak ketiga seperti Tri.com savenload, bdstd save-game menu, dll. maupun dengan junction point khusus sesuai konfigurasi sistem diskless masing-masing
+Path dari save-gamenya adalah di folder "saves" (contoh : G:\Minecraft\saves)
+
+Cara menggunakan Inverted-Profiles
+- Konfigurasi folder save-game sesuai aplikasi masing-masing / settingan masing-masing
+(contoh : bila menggunakan Tri.com savenload, tambahkan Minecraft=G:\Minecraft\saves\*.*)
+- Jalankan Launch_Minecraft.exe di client
+- Setelah player selesai bermain, buka aplikasi save-game, lalu save gamenya ke server
+- Saat user ingin main lagi di lain waktu, buka aplikasi save-game terlebih dahulu, load save-game yang telah disimpan, lalu buka Launch_Minecraft.exe
+- Worlds dan player stats akan terload otomatis
+
+## Demo Minecraft TLauncher Diskless
+- Cek di [sini](https://www.facebook.com/xbe24/posts/5116421668379759)
+
 ## Ga pengen ribet?
 
 - Download Minecraft 1.18.1 + TLauncher 2.841 di [sini](https://drive.google.com/file/d/1CA0JvOw_17dZNkQcpSASDM4q1QLiaEGz/view?fbclid=IwAR2ViknbxW80IvDJvsfbGtxmSJtd98casrqxtAwX5j28CMgh2C3yaOZXn04)
