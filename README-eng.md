@@ -27,6 +27,24 @@ Minecraft TLauncher for Diskless - Written using Notepad++ - Rebuilded using Phy
 - Reset TLauncher Config (Diskless path) : Reset configuration sistem TLauncher with diskless path (C:\Minecraft\.minecraft) that needed for launcher diskless
 - Reset TLauncher Default Config (FULL RESET!) : Reset configuration sistem TLauncher fresh without path diskless
 
+## Inverted-Profiles Feature
+
+Explanation :
+Inverted-Profiles is a feature that use client-mode configuration at client, so save game (including stat player and worlds) can be stored to server and loaded anytime.
+For save-game, you can use third-party save game app like Tri.com savenload, bdstd save-game menu, etc. or using spesific junction point at ur diskless system.
+Path for the save-game located at folder "saves" (ex : G:\Minecraft\saves)
+
+How to use Inverted-Profiles
+- Config ur save-game folder
+(ex : if u use Tri.com savenload, add Minecraft=G:\Minecraft\saves\*.*)
+- Launch Launch_Minecraft.exe at client
+- After client finished playing, open save-game app, and then save the game to server
+- If user want to load the save-game next time, open save-game app first, load save-game that already stored to server, and then launch Launch_Minecraft.exe
+- Worlds and player stats will be loaded automatically
+
+## Demo Minecraft TLauncher Diskless
+- Check [here](https://www.facebook.com/xbe24/posts/5116421668379759)
+
 ## I don't give a f, what should i do?
 
 - Download Minecraft 1.18.1 + TLauncher 2.841 at [here](https://drive.google.com/file/d/1CA0JvOw_17dZNkQcpSASDM4q1QLiaEGz/view?fbclid=IwAR2ViknbxW80IvDJvsfbGtxmSJtd98casrqxtAwX5j28CMgh2C3yaOZXn04)
