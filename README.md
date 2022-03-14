@@ -2,7 +2,7 @@
 
 # Minecraft TLauncher for Netcafe (Coming Soon)
 
-Minecraft TLauncher for Netcafe - Local/Virtual/Diskless - Ditulis menggunakan Notepad++ - Di-rebuild dengan Phyton
+Minecraft TLauncher for Netcafe - Local/Virtual/Diskless (Local/Virtual Coming Soon, Diskless Ready) - Ditulis menggunakan Notepad++ - Di-rebuild dengan Phyton
 
 ## English please?
 
