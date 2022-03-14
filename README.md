@@ -61,7 +61,7 @@ Cara menggunakan Inverted-Profiles
 ## Ga pengen ribet?
 
 - Download Minecraft 1.18.1 + TLauncher 2.841 di [sini](https://bit.ly/3Jh0Xi4)
-- Setelah itu, ikuti stepnya (skip langsung ke bagian "Jalankan Launch_Minecraft_ServerUI.exe")
+- Setelah itu, ikuti stepnya (skip langsung ke bagian "Jalankan Launch_Minecraft_ServerUI.exe") [disini](https://github.com/fahmiyufrizal/minecraft-tlauncher-diskless#instalasi-dan-cara-menggunakan)
 - Jangan di-reupload!
 
 ## Terimakasih Kepada
