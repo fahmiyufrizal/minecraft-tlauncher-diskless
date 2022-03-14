@@ -57,7 +57,7 @@ Cara menggunakan Inverted-Profiles
 
 ## Ga pengen ribet?
 
-- Download Minecraft 1.18.1 + TLauncher 2.841 di [sini](https://drive.google.com/file/d/1CA0JvOw_17dZNkQcpSASDM4q1QLiaEGz/view?fbclid=IwAR2ViknbxW80IvDJvsfbGtxmSJtd98casrqxtAwX5j28CMgh2C3yaOZXn04)
+- Download Minecraft 1.18.1 + TLauncher 2.841 di [sini](https://bit.ly/3Jh0Xi4)
 - Jangan di-reupload!
 
 ## Terimakasih Kepada
