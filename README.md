@@ -17,7 +17,7 @@ Minecraft TLauncher for Netcafe - Local/Virtual/Diskless (Local/Virtual Coming S
 
 ## Instalasi dan cara menggunakan
 
-- Cukup taruh folder fahmiyufrizal, file Launch_Minecraft.exe, Launch_Minecraft_Legacy.exe, dan Launch_Minecraft_ServerUI.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe)
+- Cukup taruh folder fahmiyufrizal, file Launch_Minecraft.exe, Launch_Minecraft_Legacy.exe, dan Launch_Minecraft_ServerUI.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe) (Step ini hanya untuk yang menggunakan Launcher, yang menggunakan repack-an dibawah, skip ke step berikutnya)
 - Jalankan Launch_Minecraft_ServerUI.exe
 - Klik "1-click configuration" di server
 - Setelah itu, jalankan Launch_Minecraft.exe seperti biasa baik di server maupun di client
@@ -58,7 +58,7 @@ Cara menggunakan Inverted-Profiles
 ## Ga pengen ribet?
 
 - Download Minecraft 1.18.1 + TLauncher 2.841 di [sini](https://bit.ly/3Jh0Xi4)
-- Setelah itu, ikuti stepnya (skip langsung di bagian "Jalankan Launch_Minecraft_ServerUI.exe")
+- Setelah itu, ikuti stepnya (skip langsung ke bagian "Jalankan Launch_Minecraft_ServerUI.exe")
 - Jangan di-reupload!
 
 ## Terimakasih Kepada
