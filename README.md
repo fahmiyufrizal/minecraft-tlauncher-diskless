@@ -1,8 +1,8 @@
 [![N|Solid](https://apkmody.io/wp-content/uploads/2018/07/Minecraft-MOD-APK-by-APKMODY.jpg)](#)
 
-# Minecraft TLauncher for Diskless
+# Minecraft TLauncher for Netcafe (Coming Soon)
 
-Minecraft TLauncher for Diskless - Ditulis menggunakan Notepad++ - Di-rebuild dengan Phyton
+Minecraft TLauncher for Netcafe - Local/Virtual/Diskless - Ditulis menggunakan Notepad++ - Di-rebuild dengan Phyton
 
 ## English please?
 
