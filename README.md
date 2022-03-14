@@ -39,7 +39,7 @@ Minecraft TLauncher for Netcafe - Local/Virtual/Diskless (Local/Virtual Coming S
 ## Fitur Inverted-Profiles
 
 Penjelasan :
-Inverted-Profiles adalah sebuah fitur yang memanfaatkan konfigurasi client-mode di client, sehingga save game (termasuk stat player dan worlds) bisa disimpan ke server dan di-load kapan saja.
+> Inverted-Profiles adalah sebuah fitur yang memanfaatkan konfigurasi client-mode di client, sehingga save game (termasuk stat player dan worlds) bisa disimpan ke server dan di-load kapan saja.
 Untuk melakukan save-game, bisa memanfaatkan aplikasi save-game pihak ketiga seperti Tri.com savenload, bdstd save-game menu, dll. maupun dengan junction point khusus sesuai konfigurasi sistem diskless masing-masing
 ```sh
 Path dari save-gamenya adalah di folder "saves" (contoh : G:\Minecraft\saves)
