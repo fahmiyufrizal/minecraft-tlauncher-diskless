@@ -17,7 +17,10 @@ Minecraft TLauncher for Netcafe - Local/Virtual/Diskless (Local/Virtual Coming S
 
 ## Instalasi dan cara menggunakan
 
-- Cukup taruh folder fahmiyufrizal, file Launch_Minecraft.exe, Launch_Minecraft_Legacy.exe, dan Launch_Minecraft_ServerUI.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe) (Step ini hanya untuk yang menggunakan Launcher, yang menggunakan repack-an dibawah, skip ke step berikutnya)
+- Cukup taruh folder fahmiyufrizal, file Launch_Minecraft.exe, Launch_Minecraft_Legacy.exe, dan Launch_Minecraft_ServerUI.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe)
+ ```sh
+ Step ini hanya untuk yang menggunakan Launcher, yang menggunakan repack-an dibawah, skip ke step berikutnya)
+```
 - Jalankan Launch_Minecraft_ServerUI.exe
 - Klik "1-click configuration" di server
 - Setelah itu, jalankan Launch_Minecraft.exe seperti biasa baik di server maupun di client
