@@ -63,6 +63,8 @@ Cara menggunakan Inverted-Profiles
 - Download Minecraft 1.18.1 + TLauncher 2.841 di [sini](https://bit.ly/3Jh0Xi4)
 - Setelah itu, ikuti stepnya (skip langsung ke bagian "Jalankan Launch_Minecraft_ServerUI.exe") [disini](https://github.com/fahmiyufrizal/minecraft-tlauncher-diskless#instalasi-dan-cara-menggunakan)
 - Jangan di-reupload!
+- Gausah jualan file ya pant#k, kalo jasa masang-in monggo silahkan. Kalo masih bebal jualan file, RESIKO TANGGUNG SENDIRI KALO ADA ERROR!
+- Gausah di shortlink, bukan file rame, sat!
 
 ## Terimakasih Kepada
 
