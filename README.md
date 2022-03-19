@@ -2,7 +2,7 @@
 
 # Minecraft TLauncher for Netcafe (Coming Soon)
 
-Minecraft TLauncher for Netcafe - Local/Virtual/Diskless (Local/Virtual Coming Soon, Diskless Ready) - Ditulis menggunakan Notepad++ - Di-rebuild dengan Phyton
+Minecraft TLauncher for Netcafe - Local/Virtual/Diskless - Ditulis menggunakan Notepad++ - Di-rebuild dengan Phyton
 
 ## English please?
 
@@ -17,24 +17,39 @@ Minecraft TLauncher for Netcafe - Local/Virtual/Diskless (Local/Virtual Coming S
 
 ## Instalasi dan cara menggunakan
 
-- Cukup taruh folder fahmiyufrizal, file Launch_Minecraft.exe, Launch_Minecraft_Legacy.exe, dan Launch_Minecraft_ServerUI.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe)
+- Cukup taruh folder fahmiyufrizal, file Launch_Minecraft.exe, Launch_Minecraft_Legacy.exe, dan Launch_Minecraft_Toolkit.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe)
  ```sh
  Step diatas hanya untuk yang menggunakan Launcher saja, yang menggunakan repack-an dibawah, skip ke step berikutnya)
 ```
-- Jalankan Launch_Minecraft_ServerUI.exe
-- Klik "1-click configuration" di server
+- Jalankan Launch_Minecraft_Toolkit.exe
+- Untuk Lokal : Klik "Start TLauncher UI"
+- Untuk Virtual : Klik "Virtual - 1Click"
+- Untuk Diskless : Klik "Diskless - 1Click"
 - Setelah itu, jalankan Launch_Minecraft.exe seperti biasa baik di server maupun di client
 
-## Penjelasan ServerUI
+## Penjelasan Toolkit (sebelumnya ServerUI)
 
 - Start TLauncher UI : Membuka TLauncher UI (Launch_Minecraft.exe)
-- 1-click TLauncher Diskless Server Ready : Auto konfigurasi setting agar siap dipakai di server dan client
+> Mode Lokal cukup menggunakan ini tanpa perlu 1-Click
+```sh
+ 1-Click
+```
+- Diskless - 1Click : Auto konfigurasi setting agar siap dipakai di server dan client diskless
+- Virtual - 1Click : Auto konfigurasi setting agar siap dipakai di server dan client virtual
+```sh
+ Set-As
+```
 - Server Mode : Membuat PC menjadi server-mode
 - Cliet Mode : Membuat PC menjadi client-mode
+```sh
+ Reset Account
+```
 - Reset Account (Server) : Reset akun server menjadi blank
 - Reset Account (Client) : Reset akun client menjadi blank
-- Reset TLauncher Config (Diskless path) : Reset konfigurasi sistem TLauncher dengan path diskless yang diperlukan untuk launcher diskless
-- Reset TLauncher Default Config (FULL RESET!) : Reset konfigurasi sistem TLauncher fresh tanpa path diskless
+```sh
+ Reset Config
+```
+- Reset Configuration Path : Reset konfigurasi path TLauncher
 
 ## Fitur Inverted-Profiles
 
@@ -60,8 +75,8 @@ Cara menggunakan Inverted-Profiles
 
 ## Ga pengen ribet?
 
-- Download Minecraft 1.18.1 + TLauncher 2.841 di [sini](https://bit.ly/3Jh0Xi4)
-- Setelah itu, ikuti stepnya (skip langsung ke bagian "Jalankan Launch_Minecraft_ServerUI.exe") [disini](https://github.com/fahmiyufrizal/minecraft-tlauncher-diskless#instalasi-dan-cara-menggunakan)
+- Download Minecraft 1.18.2 + TLauncher 2.841 + NetCafe Launcher di [sini](https://bit.ly/3N5GNtk)
+- Setelah itu, ikuti stepnya (skip langsung ke bagian "Jalankan Launch_Minecraft_Toolkit.exe") [disini](https://github.com/fahmiyufrizal/minecraft-tlauncher-diskless#instalasi-dan-cara-menggunakan)
 - Jangan di-reupload!
 - Gausah jualan file ya pant#k, kalo jasa masang-in monggo silahkan. Kalo masih bebal jualan file, RESIKO TANGGUNG SENDIRI KALO ADA ERROR!
 - Gausah di shortlink, bukan file rame, sat!
