@@ -40,13 +40,13 @@ Minecraft TLauncher for Netcafe - Local/Virtual/Diskless - Ditulis menggunakan N
 ```sh
  1-Click
 ```
-- Diskless - 1Click : Auto konfigurasi setting agar siap dipakai di server dan client diskless
-- Virtual - 1Click : Auto konfigurasi setting agar siap dipakai di server dan client virtual
+- Diskless - 1Click : Auto konfigurasi setting agar siap dipakai di server dan client (diskless)
+- Virtual - 1Click : Auto konfigurasi setting agar siap dipakai di server dan client (virtual)
 ```sh
  Set-As
 ```
 - Server Mode : Membuat PC menjadi server-mode
-- Cliet Mode : Membuat PC menjadi client-mode
+- Client Mode : Membuat PC menjadi client-mode
 ```sh
  Reset Account
 ```
