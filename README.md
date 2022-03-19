@@ -15,6 +15,10 @@ Minecraft TLauncher for Netcafe - Local/Virtual/Diskless - Ditulis menggunakan N
 - Inverted-Profiles. Sekarang savefiles tlauncher bisa disave-load sesuka hati menggunakan program pihak ke-3 (seperti Tri.com Savenload, Game save bdstd, dsb.)
 - Minecraft Toolkit. Alat untuk keperluan Minecraft TLauncher for Netcafe
 
+## CATATAN
+
+Untuk Windows 7 (terutama yang menggunakan sistem Cyberindo Diskless versi lama) coba lengkapi seluruh vcredist terbaru. Bila masih tidak bisa, gunakan Launch_Minecraft_Legacy.exe. Namun, legacy version hanya untuk mendukung agar Minecraft TLauncher bisa dijalankan saja tanpa ada fitur Inverted-Profiles, splitted-configs, dan toolkit. Sangat disarankan untuk up ke Windows 10/11.
+
 ## Instalasi dan cara menggunakan
  ```sh
  Step dibawah hanya untuk yang menggunakan Launcher saja, yang menggunakan repack-an dibawah, skip ke step berikutnya)
