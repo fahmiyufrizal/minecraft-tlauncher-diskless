@@ -80,7 +80,7 @@ Cara menggunakan Inverted-Profiles
 - Saat user ingin main lagi di lain waktu, buka aplikasi save-game terlebih dahulu, load save-game yang telah disimpan, lalu buka Launch_Minecraft.exe
 - Worlds dan player stats akan terload otomatis
 
-## Demo Minecraft TLauncher Diskless
+## Demo Minecraft TLauncher for Netcafe (demo masih menggunakan versi lama, namun hampir sama)
 - Cek di [sini](https://www.facebook.com/xbe24/posts/5116421668379759)
 
 ## Ga pengen ribet?
