@@ -13,7 +13,7 @@ Minecraft TLauncher for Netcafe - Local/Virtual/Diskless - Ditulis menggunakan N
 - Ready-to-go alias cesplenk. Tidak perlu atur minecraft.dir lagi didalam tlauncher-2.0.properties
 - Splitted-config. Config akun server dan client terpisah.
 - Inverted-Profiles. Sekarang savefiles tlauncher bisa disave-load sesuka hati menggunakan program pihak ke-3 (seperti Tri.com Savenload, Game save bdstd, dsb.)
-- ServerUI. Toolkit untuk keperluan Minecraft TLauncher Diskless
+- Minecraft Toolkit. Alat untuk keperluan Minecraft TLauncher for Netcafe
 
 ## Instalasi dan cara menggunakan
 
