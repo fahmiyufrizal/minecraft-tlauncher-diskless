@@ -11,13 +11,19 @@ Minecraft TLauncher for Netcafe - Local/Virtual/Diskless - Ditulis menggunakan N
 ## Fitur
 
 - Ready-to-go alias cesplenk. Tidak perlu atur minecraft.dir lagi didalam tlauncher-2.0.properties
-- Splitted-config. Config akun server dan client terpisah.
+- Splitted-config. Config akun server dan client terpisah (sehingga di client efeknya seperti auto-reset).
 - Inverted-Profiles. Sekarang savefiles tlauncher bisa disave-load sesuka hati menggunakan program pihak ke-3 (seperti Tri.com Savenload, Game save bdstd, dsb.)
 - Minecraft Toolkit. Alat untuk keperluan Minecraft TLauncher for Netcafe
 
 ## Instalasi dan cara menggunakan
-
-- Cukup taruh folder fahmiyufrizal, file Launch_Minecraft.exe, Launch_Minecraft_Legacy.exe, dan Launch_Minecraft_Toolkit.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe)
+ ```sh
+ Step dibawah hanya untuk yang menggunakan Launcher saja, yang menggunakan repack-an dibawah, skip ke step berikutnya)
+```
+- Copy/Move isi folder C:\Users\<nama users>\AppData\Roaming\.minecraft ke dalam folder Minecraft di Gamedisk
+> Misalnya : D:\Minecraft
+- Copy/Move juga folder C:\Users\<nama users>\AppData\Roaming\.tlauncher ke dalam folder Minecraft di Gamedisk
+> Misalnya : D:\Minecraft\.tlauncher
+- Lalu taruh file Launch_Minecraft.exe, Launch_Minecraft_Legacy.exe, dan Launch_Minecraft_Toolkit.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe)
  ```sh
  Step diatas hanya untuk yang menggunakan Launcher saja, yang menggunakan repack-an dibawah, skip ke step berikutnya)
 ```
