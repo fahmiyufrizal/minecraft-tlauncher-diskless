@@ -14,6 +14,7 @@ Minecraft TLauncher for Netcafe - Local/Virtual/Diskless - Ditulis menggunakan N
 - Splitted-config. Config akun server dan client terpisah (sehingga di client efeknya seperti auto-reset).
 - Inverted-Profiles. Sekarang savefiles tlauncher bisa disave-load sesuka hati menggunakan program pihak ke-3 (seperti Tri.com Savenload, Game save bdstd, dsb.)
 - Minecraft Toolkit. Alat untuk keperluan Minecraft TLauncher for Netcafe
+- Auto Detect dan Install Java bila belum terdeteksi (Download JRE melalui toolkit sebelum menggunakan fitur ini)
 
 ## CATATAN
 
