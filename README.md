@@ -18,7 +18,7 @@ Minecraft TLauncher for Netcafe - Local/Virtual/Diskless - Ditulis menggunakan N
 
 ## CATATAN
 
-Untuk Windows 7 (terutama yang menggunakan sistem Cyberindo Diskless versi lama) coba lengkapi seluruh vcredist terbaru. Bila masih tidak bisa, gunakan Launch_Minecraft_Legacy.exe. Namun, legacy version hanya untuk mendukung agar Minecraft TLauncher bisa dijalankan saja tanpa ada fitur Inverted-Profiles, splitted-configs, dan toolkit. Sangat disarankan untuk up ke Windows 10/11.
+Untuk Windows 7 (terutama yang menggunakan sistem Cyberindo Diskless versi lama) coba lengkapi seluruh vcredist terbaru. Bila masih tidak bisa, gunakan Launch_Minecraft_Legacy.exe. Namun, legacy version hanya untuk mendukung agar Minecraft TLauncher bisa dijalankan saja tanpa ada fitur Inverted-Profiles, splitted-configs, auto-install java dan toolkit. Sangat disarankan untuk up ke Windows 10/11.
 
 ## Instalasi dan cara menggunakan
  ```sh
@@ -37,6 +37,7 @@ Untuk Windows 7 (terutama yang menggunakan sistem Cyberindo Diskless versi lama)
 - Untuk Virtual : Klik "Virtual - 1Click"
 - Untuk Diskless : Klik "Diskless - 1Click"
 - Setelah itu, jalankan Launch_Minecraft.exe seperti biasa baik di server maupun di client
+- Jika Java belum terinstall di server dan client, buka Launch_Minecraft_Toolkit.exe lalu buka tab Java > Download Java. Setelah itu, install java to current system di server/pc. Untuk sistem virtual/diskless, Java akan terinstall otomatis saat membuka Launch_Minecraft.exe bila java tidak terdeteksi.
 
 ## Penjelasan Toolkit (sebelumnya ServerUI)
 
@@ -47,6 +48,7 @@ Untuk Windows 7 (terutama yang menggunakan sistem Cyberindo Diskless versi lama)
 ```
 - Diskless - 1Click : Auto konfigurasi setting agar siap dipakai di server dan client (diskless)
 - Virtual - 1Click : Auto konfigurasi setting agar siap dipakai di server dan client (virtual)
+- Reset Configuration Path : Reset konfigurasi path TLauncher
 ```sh
  Set-As
 ```
@@ -58,9 +60,10 @@ Untuk Windows 7 (terutama yang menggunakan sistem Cyberindo Diskless versi lama)
 - Reset Account (Server) : Reset akun server menjadi blank
 - Reset Account (Client) : Reset akun client menjadi blank
 ```sh
- Reset Config
+ Java Tools
 ```
-- Reset Configuration Path : Reset konfigurasi path TLauncher
+- Download Java Runtime : Melakukan download file Java JRE
+- Install Java to current system : Melakukan instalasi java ke sistem (server virtual/diskless atau PC client lokal).
 
 ## Fitur Inverted-Profiles
 
