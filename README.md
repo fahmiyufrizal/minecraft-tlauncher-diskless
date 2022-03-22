@@ -26,8 +26,8 @@ Untuk Windows 7 (terutama yang menggunakan sistem Cyberindo Diskless versi lama)
 ```
 - Copy/Move isi folder C:\Users\<nama users>\AppData\Roaming\.minecraft ke dalam folder Minecraft di Gamedisk
 > Misalnya : D:\Minecraft
-- Copy/Move juga folder C:\Users\<nama users>\AppData\Roaming\.tlauncher ke dalam folder Minecraft di Gamedisk
-> Misalnya : D:\Minecraft\.tlauncher
+- Copy/Move juga folder C:\Users\<nama users>\AppData\Roaming\ .tlauncher ke dalam folder Minecraft di Gamedisk
+> Misalnya : D:\Minecraft\ .tlauncher
 - Lalu taruh file Launch_Minecraft.exe, Launch_Minecraft_Legacy.exe, dan Launch_Minecraft_Toolkit.exe didalam folder Minecraft di gamedisk (misal D:\Minecraft\Launch_Minecraft.exe)
  ```sh
  Step diatas hanya untuk yang menggunakan Launcher saja, yang menggunakan repack-an dibawah, skip ke step berikutnya)
