@@ -1,8 +1,8 @@
 [![N|Solid](https://apkmody.io/wp-content/uploads/2018/07/Minecraft-MOD-APK-by-APKMODY.jpg)](#)
 
-# Minecraft TLauncher for Diskless
+# Minecraft TLauncher for Netcafe
 
-Minecraft TLauncher for Diskless - Written using Notepad++ - Rebuilded using Phyton
+Minecraft TLauncher for Netcafe - Local/Virtual/Diskless - Written using Notepad++ - Rebuilded using Phyton
 
 ## Feature
 
@@ -10,24 +10,55 @@ Minecraft TLauncher for Diskless - Written using Notepad++ - Rebuilded using Phy
 - Splitted-config. Config account server and client is splitted/separated
 - Inverted-Profiles. Now tlauncher's savefiles can be save-loaded using third party software (like Tri.com Savenload, Game save bdstd, dsb.)
 - ServerUI. Toolkit for Minecraft TLauncher Diskless needs
+- Auto Detect and Install Java if not installed (Download JRE using toolkit 1st before using this feature)
+
+## Notes
+For Windows 7 (especially that using Cyberindo Diskless old version) please install all latest updates. If still cant launched, use Launch_Minecraft_Legacy.exe. But, this legacy version only support to make sure Minecraft TLauncher can launched without Inverted-Profiles, splitted-configs, auto-install java and toolkit feature. Highly recomended to update to Windows 10/11.
 
 ## Installation and how to use
-
-- Just place folder fahmiyufrizal, file Launch_Minecraft.exe, Launch_Minecraft_Legacy.exe, dan Launch_Minecraft_ServerUI.exe inside Minecraft folder at gamedisk (ex D:\Minecraft\Launch_Minecraft.exe)
-- Launch Launch_Minecraft_ServerUI.exe
-- Click "1-click configuration" at server
+ ```sh
+ Step below only provided to Launcher-download only, if u use repack version, skip to next step)
+```
+- Copy/Move files inside folder C:\Users\<nama users>\AppData\Roaming\.minecraft to Minecraft folder at gamedisk
+> Example : D:\Minecraft
+- Copy/Move folder C:\Users\<nama users>\AppData\Roaming\ .tlauncher to Minecraft folder at gamedisk
+> Example : D:\Minecraft\ .tlauncher
+- Place Launch_Minecraft.exe, Launch_Minecraft_Legacy.exe, and Launch_Minecraft_Toolkit.exe to Minecraft folder at gamedisk (example D:\Minecraft\Launch_Minecraft.exe)
+ ```sh
+ Step below only provided to Launcher-download only, if u use repack version, skip to next step)
+```
+- Launch Launch_Minecraft_Toolkit.exe
+- For Local System : Click "Start TLauncher UI"
+- For Virtual : Click "Virtual - 1Click"
+- For Diskless : Click "Diskless - 1Click"
 - After that, run Launch_Minecraft.exe as usual at client and server
+- If java not installed both at server and client, go to toolkit and then Java > Download java. After java downloaded, click install to current system. Java will be installed automatically if u launch Launch_Minecraft.exe at client.
 
-## A lil info about ServerUI
+## A lil info about Toolkit (last name : ServerUI)
 
-- Start TLauncher UI : Start TLauncher UI (Launch_Minecraft.exe)
-- 1-click TLauncher Diskless Server Ready : Auto config setting to make it ready at server and client
-- Server Mode : PC going to server-mode
-- Cliet Mode : PC going to client-mode
-- Reset Account (Server) : Reset account server to blank
-- Reset Account (Client) : Reset account client to blank
-- Reset TLauncher Config (Diskless path) : Reset configuration sistem TLauncher with diskless path (C:\Minecraft\.minecraft) that needed for launcher diskless
-- Reset TLauncher Default Config (FULL RESET!) : Reset configuration sistem TLauncher fresh without path diskless
+- Start TLauncher UI : Starting TLauncher UI (Launch_Minecraft.exe)
+> Local mode just need this button without 1-click
+```sh
+ 1-Click
+```
+- Diskless - 1Click : Auto config setting so it will ready both at server and client (diskless)
+- Virtual - 1Click : Auto config setting so it will ready both at server and client (virtual)
+- Reset Configuration Path 
+```sh
+ Set-As
+```
+- Server Mode : PC becoming server-mode
+- Client Mode : PC becoming client-mode
+```sh
+ Reset Account
+```
+- Reset Account (Server) : Reset Server account to blank
+- Reset Account (Client) : Reset Client account to blank
+```sh
+ Java Tools
+```
+- Download Java Runtime : Download Java JRE that needed by Minecraft TLauncher
+- Install Java to current system : Install Java JRE that needed by Minecraft TLauncher
 
 ## Inverted-Profiles Feature
 
@@ -54,8 +85,11 @@ How to use Inverted-Profiles
 
 ## I don't give a f, what should i do?
 
-- Download Minecraft 1.18.1 + TLauncher 2.841 at [here](https://drive.google.com/file/d/1CA0JvOw_17dZNkQcpSASDM4q1QLiaEGz/view?fbclid=IwAR2ViknbxW80IvDJvsfbGtxmSJtd98casrqxtAwX5j28CMgh2C3yaOZXn04)
-- Please don't reupload it!
+- Download Minecraft 1.18.2 + TLauncher 2.841 + NetCafe Launcher at [here](https://bit.ly/3wwG1iV)
+- After downloaded, follow steps (skip to "Launch Launch_Minecraft_Toolkit.exe") [here](https://github.com/fahmiyufrizal/minecraft-tlauncher-diskless#instalasi-dan-cara-menggunakan)
+- Dont reupload!
+- Dont sell it. You can take charge if u help someone installing this but please dont sell the launcher/repack.
+- Dont "safelink/shortlink" it
 
 ## Thank's to
 
