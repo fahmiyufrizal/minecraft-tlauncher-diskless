@@ -85,7 +85,7 @@ How to use Inverted-Profiles
 
 ## I don't give a f, what should i do?
 
-- Download Minecraft 1.19 + TLauncher 2.86 + NetCafe Launcher at [here](https://uns.id/1hn)
+- Download Minecraft 1.19 + TLauncher 2.86 + NetCafe Launcher at [here](https://bit.ly/3mZOntV)
 - After downloaded, follow steps (skip to "Launch Launch_Minecraft_Toolkit.exe") [here](https://github.com/fahmiyufrizal/minecraft-tlauncher-diskless#instalasi-dan-cara-menggunakan)
 - Dont reupload!
 - Dont sell it. You can take charge if u help someone installing this but please dont sell the launcher/repack.
