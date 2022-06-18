@@ -89,7 +89,7 @@ Cara menggunakan Inverted-Profiles
 
 ## Ga pengen ribet?
 
-- Download Minecraft 1.19 + TLauncher 2.86 + NetCafe Launcher di [sini](https://uns.id/1hn)
+- Download Minecraft 1.19 + TLauncher 2.86 + NetCafe Launcher di [sini]([https://bit.ly/3mZOntV])
 - Setelah itu, ikuti stepnya (skip langsung ke bagian "Jalankan Launch_Minecraft_Toolkit.exe") [disini](https://github.com/fahmiyufrizal/minecraft-tlauncher-diskless#instalasi-dan-cara-menggunakan)
 - Jangan di-reupload!
 - Gausah jualan file ya pant#k, kalo jasa masang-in monggo silahkan. Kalo masih bebal jualan file, RESIKO TANGGUNG SENDIRI KALO ADA ERROR!
