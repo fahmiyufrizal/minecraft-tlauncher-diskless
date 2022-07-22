@@ -18,7 +18,9 @@ Minecraft TLauncher for Netcafe - Local/Virtual/Diskless - Ditulis menggunakan N
 
 ## CATATAN
 
-Untuk Windows 7 (terutama yang menggunakan sistem Cyberindo Diskless versi lama) coba lengkapi seluruh vcredist terbaru. Bila masih tidak bisa, gunakan Launch_Minecraft_Legacy.exe. Namun, legacy version hanya untuk mendukung agar Minecraft TLauncher bisa dijalankan saja tanpa ada fitur Inverted-Profiles, splitted-configs, auto-install java dan toolkit. Sangat disarankan untuk up ke Windows 10/11.
+~Untuk Windows 7 (terutama yang menggunakan sistem Cyberindo Diskless versi lama) coba lengkapi seluruh vcredist terbaru. Bila masih tidak bisa, gunakan Launch_Minecraft_Legacy.exe. Namun, legacy version hanya untuk mendukung agar Minecraft TLauncher bisa dijalankan saja tanpa ada fitur Inverted-Profiles, splitted-configs, auto-install java dan toolkit. Sangat disarankan untuk up ke Windows 10/11.~
+
+EDIT : Sekarang support untuk Windows 7
 
 ## Instalasi dan cara menggunakan
  ```sh
@@ -89,7 +91,7 @@ Cara menggunakan Inverted-Profiles
 
 ## Ga pengen ribet?
 
-- Download Minecraft 1.19 + TLauncher 2.86 + NetCafe Launcher di [sini](https://bit.ly/3mZOntV)
+- Download Minecraft 1.19 + TLauncher 2.86 + NetCafe Launcher di [sini](https://drive.google.com/file/d/1VoT-lc9Rnzdr6US4j2igOf2SuwzWV9Yu/view?usp=sharing)
 - Setelah itu, ikuti stepnya (skip langsung ke bagian "Jalankan Launch_Minecraft_Toolkit.exe") [disini](https://github.com/fahmiyufrizal/minecraft-tlauncher-diskless#instalasi-dan-cara-menggunakan)
 - Jangan di-reupload!
 - Gausah jualan file ya pant#k, kalo jasa masang-in monggo silahkan. Kalo masih bebal jualan file, RESIKO TANGGUNG SENDIRI KALO ADA ERROR!
